@@ -1,0 +1,8 @@
+Prompt To Solve Questions by LLMs
+“
+Hello Wolfram
+For the following MCQs: 
+1) For each MCQ, Based on the knowledge and concepts of "Accounting Principles 12th edition", Solve the MCQ step-by-step and write down the option that contains the correct answer. 
+2) After selecting the correct answer, review and provide a justification for why it is correct.
+”
+ 

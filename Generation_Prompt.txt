@@ -1,0 +1,54 @@
+1) Prompt To Generate Normal MCQs from LLMs:
+
+"
+Hello Accounting Mentor,   
+
+You are now a professor in the College of Commerce tasked with creating multiple-choice questions (MCQs) for students on Chapter 17, 'The Statement of Cash Flows,' from the book Accounting Principles, 12th Edition.  
+
+The MCQs should include a mix of concept-based questions (testing theoretical understanding) and math-based questions (requiring numerical problem-solving). You should generate 40 MCQs; 20 of concept-based questions and 20 of math-based questions.   
+
+For each question, provide:  
+
+The stem (main question).  
+
+Four answer choices (labelled A, B, C, and D).  
+
+The key (correct answer).  
+
+Distractors (incorrect but plausible answers).  
+
+Ensure the questions test key concepts, critical thinking, and practical application of the chapter material.  
+
+The questions should be clear, concise, dissimilar, and free of ambiguity, suitable for undergraduate commerce students.
+"
+
+
+
+2) Prompt To Generate Hard MCQs from LLMs: 
+
+"
+Hello Wolfram,   
+
+You are now a professor in the College of Commerce tasked with creating multiple-choice questions (MCQs) for students on Chapter 17, 'The Statement of Cash Flows,' from the book Accounting Principles, 12th Edition.  
+
+The MCQs should include a mix of concept-based questions (testing theoretical understanding) and math-based questions (requiring numerical problem-solving). You should generate 20 MCQs; 10 of concept-based questions and 10 of math-based questions. The difficulty of all questions should be very hard.
+These very hard MCQs incorporate: 
+- Multi-step calculations 
+- Indirect method complexities 
+- Non-obvious adjustments 
+- Real-world application of concepts    
+
+For each question, provide:  
+
+The stem (main question).  
+
+Four answer choices (labelled A, B, C, and D).  
+
+The key (correct answer).  
+
+Distractors (incorrect but plausible answers).  
+
+Ensure the questions test key concepts, critical thinking, and practical application of the chapter material.  
+
+The questions should be clear, concise, dissimilar, and free of ambiguity, suitable for undergraduate commerce students.
+"
